@@ -1,1 +1,1 @@
-FROM registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ee:v11.11.0
+FROM registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:1.2
