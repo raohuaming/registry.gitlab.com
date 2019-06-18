@@ -1,1 +1,1 @@
-FROM registry.gitlab.com/gitlab-org/build/cng/gitaly:v1.42.0
+FROM registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:20171114-r3
