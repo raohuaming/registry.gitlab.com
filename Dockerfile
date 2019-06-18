@@ -1,1 +1,1 @@
-FROM registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v9.1.0
+FROM registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ee:v11.11.0
